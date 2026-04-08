@@ -101,7 +101,7 @@ A full-stack SaaS product for Nigerian automotive workshops. Multi-tenant archit
 <div align="center">
 
 [![Email](https://img.shields.io/badge/abbassani94@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbassani94@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abbas-abbas-b57a31a2)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abbas-abbas-b57a31a2)
 [![Location](https://img.shields.io/badge/Abuja,_Nigeria-00A651?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Abuja,Nigeria)
 
 </div>

@@ -39,21 +39,25 @@ Focused on reliability, simplicity, and impact.
 <tr>
 <td width="55%" valign="top">
 
-### ⚙️ GearShift — Auto Shop
-> *Nigeria's first multi-tenant workshop management platform*
+### 🏫 School Management Platform
+> *A multi-role web app for managing Nigerian schools end-to-end*
 
-A full-stack SaaS product for Nigerian automotive workshops. Multi-tenant architecture, role-based access control, real-time data, and integrated Nigerian payment systems.
+A full-stack SaaS platform for schools and educational institutions. Built with multi-tenant architecture, role-based access control, a parent portal, an integrated LMS, and real-time dashboards — designed for the Nigerian context.
 
 **Shipped features:**
-- 🔐 RBAC — Admin · Mechanic · Advisor · Parts Manager
-- 📋 Work orders, kanban board & status timelines
-- 📦 Inventory + VIN auto-fill via NHTSA API
-- 💳 Paystack subscriptions + 5% commission splits
-- 📱 WhatsApp customer completion notifications
-- 🗓️ Online booking with QR code sharing
-- 📊 Live KPI dashboard + revenue reports
+- 🔐 RBAC — Super Admin · Admin · Teacher · Student · Parent
+- 📊 Admin dashboard with live KPIs (attendance, student count, staff metrics)
+- 👨‍🏫 Employee & Teacher profiles with subject specialisations
+- 🎓 Student enrollment, auto & manual class assignment
+- 📚 LMS — course materials, assignments, grades & learning outcomes
+- 📋 Discipline & offence log with parent notifications
+- 👨‍👩‍👧 Parent portal — grade reviews, teacher messaging, PDF reports
+- 📢 Announcements engine targeting all users or specific groups
+- 📅 Academic calendar with exam periods, holidays & .ics export
+- 📈 Reporting — academic performance, student progress & discipline reports
+- ⚙️ Feature toggles — activate/deactivate modules per institution
 
-**Stack:** `Vanilla JS` `Supabase` `PostgreSQL` `Paystack` `Edge Functions` `RLS`
+**Stack:** `Vanilla JS` `Supabase` `PostgreSQL` `Edge Functions` `RLS` `Vercel`
 
 </td>
 
@@ -91,8 +95,6 @@ A full-stack SaaS product for Nigerian automotive workshops. Multi-tenant archit
 ![Microsoft Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 </div>
-
----
 
 ---
 

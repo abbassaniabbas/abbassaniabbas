@@ -39,25 +39,27 @@ Focused on reliability, simplicity, and impact.
 <tr>
 <td width="55%" valign="top">
 
-### 🏫 School Management Platform
-> *A multi-role web app for managing Nigerian schools end-to-end*
+### Naija Tickets
+> *A modern event discovery and ticketing platform built for Nigeria*
 
-A full-stack SaaS platform for schools and educational institutions. Built with multi-tenant architecture, role-based access control, a parent portal, an integrated LMS, and real-time dashboards — designed for the Nigerian context.
+A full-stack event ticketing platform for discovering, creating, managing, and attending events across Nigeria. Built for event organisers and customers, with secure payments, digital tickets, QR-based entry, group ticketing, organiser dashboards, and event management tools designed specifically for the Nigerian event ecosystem.
 
 **Shipped features:**
-- 🔐 RBAC — Super Admin · Admin · Teacher · Student · Parent
-- 📊 Admin dashboard with live KPIs (attendance, student count, staff metrics)
-- 👨‍🏫 Employee & Teacher profiles with subject specialisations
-- 🎓 Student enrollment, auto & manual class assignment
-- 📚 LMS — course materials, assignments, grades & learning outcomes
-- 📋 Discipline & offence log with parent notifications
-- 👨‍👩‍👧 Parent portal — grade reviews, teacher messaging, PDF reports
-- 📢 Announcements engine targeting all users or specific groups
-- 📅 Academic calendar with exam periods, holidays & .ics export
-- 📈 Reporting — academic performance, student progress & discipline reports
-- ⚙️ Feature toggles — activate/deactivate modules per institution
+- Authentication for Customer, Organiser and Admin accounts
+- Event discovery by category, location, date and price
+- Regular, Early Bird, VIP, VVIP and Group tickets
+- Group ticketing with shareable claim links and attendee detail collection
+- Paystack payments via card, bank transfer and USSD
+- Digital tickets with unique QR codes and downloadable mobile-friendly versions
+- Ticket validation using QR scanning and ticket codes
+- Organiser dashboard for creating events, managing ticket types and attendees
+- Sales analytics for ticket sales, revenue, performance and payouts
+- Promo codes for discounts and promotional campaigns
+- Customer dashboard for purchased tickets, history, saved events and profiles
+- Ticket and group-ticket link sharing
+- Admin dashboard for managing users, organisers, events and platform activity
 
-**Stack:** `Vanilla JS` `Supabase` `PostgreSQL` `Edge Functions` `RLS` `Vercel`
+**Stack:** `Next.js` `TypeScript` `Supabase` `PostgreSQL` `Paystack` `QR Codes` `RLS` `Vercel`
 
 </td>
 
